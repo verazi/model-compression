@@ -19,6 +19,8 @@ Targeting edge deployment on resource-constrained devices
 | + FP16 (ONNX) | 67.91% | 3.1 MB | 3.0 ms | 29x | 7.3% |
 | + INT8 PTQ (ONNX) | 62.97% | 1.9 MB | 3.3 ms | 48x | 12.3% |
 
+![Visualization](https://github.com/verazi/model-compression/blob/main/results/compression_pipeline_visualization.png)
+
 ### Quantization Comparison
 
 | Method | Accuracy | Size | Latency | Size↓ | Notes |
