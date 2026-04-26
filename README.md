@@ -1,5 +1,3 @@
-# model-compression
-
 # Model Compression: ResNet-50 → MobileNetV3-Small
 
 Knowledge Distillation + Pruning + Quantization on CIFAR-100  
